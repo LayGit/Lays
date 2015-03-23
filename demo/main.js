@@ -1,0 +1,1 @@
+require('../src/Lays.js').run('config.json');

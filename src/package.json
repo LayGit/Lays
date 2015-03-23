@@ -1,0 +1,30 @@
+{
+  "name": "lays",
+  "version": "0.0.1",
+  "description": "快速部署基于 Nodejs 的 API服务",
+  "main": "Lays.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LayGit/Lays/src"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "server"
+  ],
+  "author": {
+    "name": "Lay"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LayGit/Lays/issues"
+  },
+  "homepage": "https://github.com/LayGit/Lays",
+  "dependencies": {
+    "journey": "^0.4.0-pre-3"
+  },
+  "readme": "https://github.com/LayGit/Lays/README.md"
+}
